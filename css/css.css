@@ -39,6 +39,7 @@ body {
 .inter
 {
   width: 200px;
+  height: 250px;
   box-shadow: 3px 1px 15px 0px rgba(53, 50, 50, 0.37);
 }
 .titulo
