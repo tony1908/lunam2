@@ -30,6 +30,7 @@ body {
 .caru
 {
 	margin-top: -20px;
+  height: 90%;
 	
 }
 #ima_carru
@@ -39,7 +40,7 @@ body {
 .inter
 {
   width: 200px;
-  height: 250px;
+  height: 210px;
   box-shadow: 3px 1px 15px 0px rgba(53, 50, 50, 0.37);
 }
 .titulo
@@ -101,4 +102,9 @@ body {
 .mail
 {
   margin-left: 30%;
+}
+.titu-vic
+{
+  
+  font-size: 20px;
 }
