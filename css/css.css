@@ -33,10 +33,6 @@ body {
   height: 90%;
 	
 }
-#ima_carru
-{
-
-}
 .inter
 {
   width: 200px;
@@ -118,4 +114,8 @@ body {
 }
 .silu {
   margin-left: 1%;
+}
+.titu-vic2
+{
+  font-size: 16px;
 }
